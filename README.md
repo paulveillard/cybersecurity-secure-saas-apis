@@ -5,10 +5,10 @@ SaaS is short for software as a service. It is one of the more innovative new to
 
 In order to address this issue there is an option that will allow you to purchase a complete suite of applications that are designed to work together. Since this is not the optimal choice for all businesses there is also the option to have an open API that will allow the business to easily integrate future applications they purchase.
 
-## API
+### `API`
 Inside a business all of the different software applications that are implemented for use need to work well with the existing software. It is a bad business practice to have one department use a software that the other departments do not use, or that will not work with the software the other departments have. This creates confusion among the different departments. SaaS API is designed to stop this problem and to create software packages that are designed to keep the lines of communication in the inner office open.
 
-### Interface
+### `Interface`
 SaaS interface is web based which makes it ideal for the small businesses. The small business will have access to the system from anywhere in the world. This removes the limitations that your older software systems placed on you.
 
 Some businesses question how secure their data will be when they switch to a system like this. Basically the system takes the business processes used by the front office and those used in the back office and uses a third party system to tie the two together. The risk of data being compromised through the use of this system is no greater than any other web based application you may use. Every safeguard that can be used has been put into place to try and keep your information safe and secure.
