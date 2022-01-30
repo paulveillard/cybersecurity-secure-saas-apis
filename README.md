@@ -14,6 +14,8 @@ SaaS interface is web based which makes it ideal for the small businesses. The s
 Some businesses question how secure their data will be when they switch to a system like this. Basically the system takes the business processes used by the front office and those used in the back office and uses a third party system to tie the two together. The risk of data being compromised through the use of this system is no greater than any other web based application you may use. Every safeguard that can be used has been put into place to try and keep your information safe and secure.
 
 
+## Table of Contents
+- [Introduction](#introduction)
 - [AI APIs](#ai-apis)
 - [API Analytics/Monitoring](#api-analyticsmonitoring)
 - [API Design/Documentation Platform](#api-designdocumentation-platform)
