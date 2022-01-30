@@ -9,6 +9,7 @@ In order to address this issue there is an option that will allow you to purchas
 ### `API`
 Inside a business all of the different software applications that are implemented for use need to work well with the existing software. It is a bad business practice to have one department use a software that the other departments do not use, or that will not work with the software the other departments have. This creates confusion among the different departments. SaaS API is designed to stop this problem and to create software packages that are designed to keep the lines of communication in the inner office open.
 
+![api](https://github.com/paulveillard/cybersecurity-secure-saas-apis/blob/main/img/api.png)
 
 
 ### `Interface`
