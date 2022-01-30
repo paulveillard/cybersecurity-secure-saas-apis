@@ -1,6 +1,6 @@
 # Secure SaaS APIs (Secure Programming Interfaces for Software-as-a-Service)
 
-## Introduction
+## `Introduction`
 SaaS is short for software as a service. It is one of the more innovative new tools that has been developed for businesses. It is designed to help businesses integrate the applications they use into a format that they can use throughout their offices. One of the main things to consider is how the new software will work with your existing software, as well as with future software applications you may need to purchase.
 
 In order to address this issue there is an option that will allow you to purchase a complete suite of applications that are designed to work together. Since this is not the optimal choice for all businesses there is also the option to have an open API that will allow the business to easily integrate future applications they purchase.
@@ -58,7 +58,7 @@ Some businesses question how secure their data will be when they switch to a sys
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## AI APIs
+## `AI APIs`
 <a name="AI-APIs"></a>
 |                                                 | API                  | Website     | SoC2 | PCI | GDPR | ISO27001 | HIPAA  | Bounty | Disclosure |
 | ----------------------------------------------- | -------------------- | ----------- | ----------------------- | --- | ---- | -------- | ------ | ---------- | ----- |
@@ -91,7 +91,7 @@ Some businesses question how secure their data will be when they switch to a sys
 
 [:top: Top of AI APIs](#AI-APIs)  [:top: Top of list](#awesome-secure-saas)
 <br/><br/>
-## API Analytics/Monitoring
+## `API Analytics/Monitoring`
 <a name="API-AnalyticsMonitoring"></a>
 |                                                 | API                  | Website     | SoC2 | PCI | GDPR | ISO27001 | HIPAA  | Bounty | Disclosure |
 | ----------------------------------------------- | -------------------- | ----------- | ----------------------- | --- | ---- | -------- | ------ | ---------- | ----- |
@@ -105,7 +105,7 @@ Some businesses question how secure their data will be when they switch to a sys
 
 [:top: Top of API Analytics/Monitoring](#API-AnalyticsMonitoring)  [:top: Top of list](#awesome-secure-saas)
 <br/><br/>
-## API Design/Documentation Platform
+## `API Design/Documentation Platform`
 <a name="API-DesignDocumentation-Platform"></a>
 |                                                 | API                  | Website     | SoC2 | PCI | GDPR | ISO27001 | HIPAA  | Bounty | Disclosure |
 | ----------------------------------------------- | -------------------- | ----------- | ----------------------- | --- | ---- | -------- | ------ | ---------- | ----- |
