@@ -1,4 +1,4 @@
-# Secure SaaS APIs (Secure Programming Interfaces for Software-as-a-Service)
+# Secure SaaS APIs (Programming Interfaces for Software-as-a-Service)
 
 ## `Introduction`
 SaaS is short for software as a service. It is one of the more innovative new tools that has been developed for businesses. It is designed to help businesses integrate the applications they use into a format that they can use throughout their offices. One of the main things to consider is how the new software will work with your existing software, as well as with future software applications you may need to purchase.
